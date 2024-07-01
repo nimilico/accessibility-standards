@@ -19,4 +19,6 @@
 ### Social Media Marketing
 * Social media continues to have a sizable influence on buying habits. **Social media marketing** helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
 
+#### Made with ❤️️ by Horiseon
+2024 Horiseon Social Solution Services, Inc.
 
